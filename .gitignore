@@ -45,3 +45,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.o
+LogicMainRobot.X/build/default/debug/basicActions.o.d
+*.d
+LogicMainRobot.X/dist/default/debug/bulbotpiclogique2011.debug.map
+*.elf
+LogicMainRobot.X/dist/default/production/bulbotpiclogique2011.production.map
+*.hex
+*.mk
+LogicMainRobot.X/nbproject/Makefile-genesis.properties
+*.bash
+LogicMainRobot.X/nbproject/private/configurations.xml
+LogicMainRobot.X/nbproject/private/private.xml
+LogicMainRobot.X/nbproject/private/SuppressibleMessageMemo.properties
+*.i
+PropDC.X/build/default/production/canFnc.s
+*.s
+PropDC.X/disassembly/listing.disasm
+*.map
+PropDC.X/nbproject/Makefile-genesis.properties
+PropDC.X/nbproject/private/private.xml
+PropDC.X/prop2015 state machine.zargo
