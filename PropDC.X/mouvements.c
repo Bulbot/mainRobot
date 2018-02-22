@@ -1,4 +1,4 @@
-#include "Globals.h"
+#include "globals.h"
 #include "consigne.h"
 #include <stdlib.h>
 #include <math.h>

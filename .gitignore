@@ -66,3 +66,7 @@ PropDC.X/disassembly/listing.disasm
 PropDC.X/nbproject/Makefile-genesis.properties
 PropDC.X/nbproject/private/private.xml
 PropDC.X/prop2015 state machine.zargo
+/PropDC.X/nbproject/private/
+/PropDC.X/build/default/
+/LogicMainRobot.X/nbproject/private/
+/PropDC.X/dist/default/

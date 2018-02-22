@@ -2,7 +2,7 @@
 #define	CONSIGNE_H
 
 
-#include "../can/CanProp.h"
+#include "../Can/CanProp.h"
 
 	typedef enum {
 		CSG_STANDING = 0,

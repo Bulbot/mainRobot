@@ -1,7 +1,7 @@
 #ifndef GLOBALS_H
 #define GLOBALS_H
 
-#include "../can/CanTypes.h"
+#include "../Can/CanTypes.h"
 
 typedef struct {
  float x;			// [m]

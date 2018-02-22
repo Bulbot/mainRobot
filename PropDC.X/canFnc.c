@@ -2,11 +2,11 @@
 #include "../libdspic/timers.h"
 #include "../libdspic/CanDspic.h"
 #include "../Can/CanNetwork.h"
-#include "../can/CanProp.h"
+#include "../Can/CanProp.h"
 #include "globals.h"
-#include "generTraj.h"
+#include "GenerTraj.h"
 #include "consigne.h"
-#include "odolibre.h"
+#include "odoLibre.h"
 
 
 #define RAD_TO_DEG10	(1800.0/PI)

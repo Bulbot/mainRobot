@@ -1,7 +1,7 @@
 #include "Configware.h"
 #include "globals.h"
-#include "Consigne.h"
-#include "motors.h"
+#include "consigne.h"
+#include "Motors.h"
 #include <math.h>
 #include "odoLibre.h"
 #include "Regulator.h"

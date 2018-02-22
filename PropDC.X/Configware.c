@@ -1,4 +1,4 @@
-#include "configware.h"
+#include "Configware.h"
 #include "../libdspic/pps.h"
 #include <xc.h>
 

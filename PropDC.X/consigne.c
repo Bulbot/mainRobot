@@ -1,6 +1,6 @@
 #include "Configware.h"
-#include "Globals.h"
-#include "Constantes.h"
+#include "globals.h"
+#include "constantes.h"
 #include "consigne.h"
 
 

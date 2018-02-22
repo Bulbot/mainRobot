@@ -4,7 +4,7 @@
 #include "Regulator.h"
 #include "consigne.h"
 #include "mouvements.h"
-#include "generTraj.h"
+#include "GenerTraj.h"
 #include "canFnc.h"
 #include "../libdspic/timers.h"
 #include "../libdspic/CanDspic.h"
