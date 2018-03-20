@@ -97,6 +97,10 @@ int main(void) {
         //translationParamType val = {100.0,100.0,100.0};
         //translationParam = val;
         motorsSetSpeed(0.5,0.5);
+        relativePosType t;
+        t.l = 200;
+        t.r = 0;
+         csgSetFinalPos(t);
         //addTranslation(translationParam);    
     
     }
