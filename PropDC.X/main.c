@@ -87,6 +87,21 @@ int main(void) {
     //timerInterrupt(TIMER_1, &propInterrupt);    // configuration de l'ISR
     timerStart(TIMER_1);
     DBG_PIN0 = 0;
+    //TVD
+    //state = STANDING;
+    
+    motorsEnable();
+    isrRegFlag = 1;
+                    enableIsrTimer1();
+    while(1){
+        translationParamType val = {100.0,100.0,100.0};
+        translationParam = val;
+        motorsSetSpeed(0.5,0.05);
+        addTranslation(translationParam);    
+    
+    }
+    
+    /*
     while (1) {
         switch (state) {
             case DISABLED:
@@ -387,5 +402,6 @@ int main(void) {
                 break;
         }
     }
+      */
     return (1);
 }
